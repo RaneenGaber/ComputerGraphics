@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Keyboard1;
+package Keyboard1.ComputerGraphics;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
